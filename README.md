@@ -27,22 +27,6 @@ The Hospitality Analytics Dashboard is an interactive Power BI project developed
 
 ---
 
-## 📊 Dashboard Preview
-
-### Executive Dashboard
-
-<img src="images/dashboard1.png" width="900" alt="Hospitality Analytics Dashboard">
-
-### Revenue Analysis
-
-<img src="images/dashboard2.png" width="900" alt="Revenue Analysis Dashboard">
-
-### Booking Analysis
-
-<img src="images/dashboard3.png" width="900" alt="Booking Analysis Dashboard">
-
----
-
 ## 📈 Key Performance Indicators (KPIs)
 
 - 💰 Total Revenue
@@ -88,16 +72,6 @@ The dataset contains multiple tables:
 - Business Intelligence
 - Data Visualization
 - KPI Development
-
----
-
-## 📸 Project Gallery
-
-| Dashboard | Preview |
-|-----------|---------|
-| Executive Dashboard | <img src="Dashboard1.jpg" width="400"> |
-| Revenue Dashboard | <img src="Dashboard2.jpg" width="400"> |
-| Booking Dashboard | <img src="Dashboard3.jpg" width="400"> |
 
 ---
 
